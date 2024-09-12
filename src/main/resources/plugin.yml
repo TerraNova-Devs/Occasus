@@ -1,0 +1,4 @@
+name: Occasus
+version: '1.0-SNAPSHOT'
+main: de.terranova.nekyia.Occasus
+api-version: '1.21'
